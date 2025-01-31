@@ -1,0 +1,1 @@
+[X] Añadir un docker-compose.yml funcional.
