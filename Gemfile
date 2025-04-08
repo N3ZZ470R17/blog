@@ -9,7 +9,7 @@ gem "rails", "~> 8.0", ">= 8.0.1"
 gem "sprockets-rails"
 
 # Use sqlite3 as the database for Active Record
-gem "sqlite3", "~> 1.4"
+# gem "sqlite3", "~> 1.4"
 
 gem "image_processing", "~> 1.2"
 
@@ -27,6 +27,9 @@ gem "stimulus-rails"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
+
+# PostgreSQL
+gem 'pg'
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
